@@ -1,10 +1,10 @@
 # Robotic Arm Control
 
-![Robotic Arm]((https://youtu.be/ZxYmsuqrhrQ)
+[![Robotic Arm Control](https://img.youtube.com/vi/ZxYmsuqrhrQ/0.jpg)](https://youtu.be/ZxYmsuqrhrQ)
 
 ## Overview
 
-This project demonstrates the control of a robotic arm using an Arduino Mega and various components. The robotic arm is designed based on the Zortrax robot arm, with added extensions, a fourth axis, gripper control, joysticks for manual operation, and a control box containing a fan, ramps 1.4 board, and Arduino Mega.
+This project showcases the Arduino Mega-controlled robotic arm with additional features and extensions. Based on the Zortrax robot arm design, the arm includes a fourth axis, gripper control, joysticks for manual operation, and a control box housing a fan, ramps 1.4 board, and Arduino Mega.
 
 ## Features
 
@@ -38,7 +38,7 @@ Ensure correct wiring of stepper motors, joysticks, gripper limit switch, and fa
 
 ## Demo
 
-For a detailed demonstration and tutorial, check out the [T-Win Technologies YouTube channel](https://www.youtube.com/channel/UCJVlaAN44GDAgqWhei52QZg).
+For a detailed demonstration and tutorial, visit the [T-Win Technologies YouTube channel](https://www.youtube.com/channel/UCJVlaAN44GDAgqWhei52QZg).
 
 ## Authors
 
