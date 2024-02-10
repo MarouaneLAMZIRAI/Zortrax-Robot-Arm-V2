@@ -1,6 +1,6 @@
 # Robotic Arm Control
 
-![Robotic Arm](robotic_arm_image.jpg)
+![Robotic Arm]((https://youtu.be/ZxYmsuqrhrQ)
 
 ## Overview
 
