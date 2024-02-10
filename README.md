@@ -38,7 +38,7 @@ Ensure correct wiring of stepper motors, joysticks, gripper limit switch, and fa
 
 ## Demo
 
-For a detailed demonstration and tutorial, check out the [T-Win Technologies YouTube channel]([(https://www.youtube.com/channel/UCJVlaAN44GDAgqWhei52QZg)]).
+For a detailed demonstration and tutorial, check out the [T-Win Technologies YouTube channel](https://www.youtube.com/channel/UCJVlaAN44GDAgqWhei52QZg).
 
 ## Authors
 
